@@ -1,2 +1,2 @@
 # disqus-amp
-Disqus amp
+Disqus komentar untuk masrud.com
